@@ -2,6 +2,24 @@
 
 Olá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia. O curso já está 100% disponível para todos, gratuitamente.
 
+## Bibliografia:
+
+[Javascript o guia definitivo](https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X)
+
+[Javascript. Guia do Programador](https://www.amazon.com.br/Javascript-Guia-Programador-Maur%C3%ADcio-Silva/dp/8575222481/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=AKF7RZBYQR5B&keywords=javascript+guia+do+programador&qid=1559568212&s=books&sprefix=javascript+guia+do+%2Cstripbooks%2C250&sr=1-1)
+
+[Guia JavaScript - Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
+
+[Guia EcmaScript - ECMA](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+
+## Softwares:
+
+[Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
+
+[Visual Studio Code](https://code.visualstudio.com/)
+
+[Node.js](https://nodejs.org/en/)
+
 _____________________________________________________________________________________
 
 ## Linha do Tempo
@@ -42,7 +60,3 @@ ________________________________________________________________________________
 - Ionic: SDK, criar aplicações para dispositivos móveis (Node.js).
 
 Nota: Javascript para jogos -> Phaser, PixiJs, Impact, Melon.js, CraftyJS
-
-_____________________________________________________________________________________
-
-##
