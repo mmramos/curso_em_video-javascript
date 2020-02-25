@@ -20,13 +20,9 @@ O"lá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de Ja
 
 [Node.js](https://nodejs.org/en/)
 
-[watch-in-chrome](https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome)
+[watch-in-chrome](https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome) Execute por ```Ctrl+Shift+p``` >> "watch in chrome" (instalar como extensão no Chrome também).
 
-Execute por ```Ctrl+Shift+p``` >> "watch in chrome" (instalar como extensão no Chrome também).
-
-[node exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node)
-
-Execute por ```F8``` no VSCode
+[node exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node) Execute por ```F8``` no VSCode
 
 _____________________________________________________________________________________
 
