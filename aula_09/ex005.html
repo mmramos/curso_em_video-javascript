@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Primeiros Passo com DOM</title>
+    <style>
+        body {
+            background:rgb(63, 106, 185);
+            color:blanchedalmond;
+            font: normal 18pt Arial;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Iniciando estudos com DOM</h1>
+    <p>Aqui vai o resultado</p>
+    <p>Aprendendo a usar <strong>DOM</strong> em Javascript</p>
+    <div id="msg">Clique em min</div>
+    <div class="box1"></div>
+    <div id="box2"></div>
+    <div class="box3"></div>
+
+    <script>
+
+        var p1 = window.document.getElementsByTagName('p')[1] // Selecionando o primeiro parágrafo [0]
+        var msg = window.document.getElementById("msg") // Selecionando o arquivo com Id "msg"
+        var box1 = window.document.getElementsByClassName("box1")[0] // selecionando o primeiro elemento da classe 1
+        var box2 = window.document.querySelector("div#box2") // # para id
+        var box3 = window.document.querySelector("div.box3") // # para id
+
+        window.document.write("Olá Mundo!<br/>") // Escrevendo no documento
+        window.document.write(window.document.charset+"<br/>") // Mostrando qual o charset do documento
+        window.document.write(window.navigator.appName+"<br/>") // Mostrando o nome do navegador (Netscape)
+        window.document.write(p1.innerText+"<br/>") // pegando o texto interno de p1
+        window.document.write(p1.innerHTML+"<br/>") // pegando o HTML interno de p1
+
+        p1.style.color = 'blue' // muda a cor do primeiro parágrafo
+        msg.style.background = "green" // mudando a cor da div id="msg"
+
+        box1.innerText = "Add1 via JavaScript" // Adicionando o texto por Javascript
+        box1.style.background = "teal" // colorido via javascript
+        box2.innerText = "Add2 via JavaScript" // Adicionando o texto por Javascript
+        box3.innerText = "Add3 via JavaScript" // Adicionando o texto por Javascript
+    </script>
+    
+</body>
+</html>

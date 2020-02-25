@@ -60,3 +60,9 @@ ________________________________________________________________________________
 - Ionic: SDK, criar aplicações para dispositivos móveis (Node.js).
 
 Nota: Javascript para jogos -> Phaser, PixiJs, Impact, Melon.js, CraftyJS
+
+_____________________________________________________________________________________
+
+## DOM (Document Object Model)
+
+[Lista de eventos DOM](https://developer.mozilla.org/pt-BR/docs/Web/Events)
