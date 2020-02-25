@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>eventos DOM</title>
     <style>
-        div#area {
+        div.area {
             font: 20pt Arial;
             background: rgb(64, 116, 12);
             color:cornsilk;
@@ -18,9 +18,43 @@
     </style>
 </head>
 <body>
-    <div id='area'>
+    <div id='area1' class='area' onclick="clicar()">
         interaja ...
     </div>
+    <br/>
+    <div id='area2' class='area'>
+            interaja ...
+    </div>
+
+    <script>
+
+        function clicar(){
+            var area1 = window.document.getElementById("area1")
+            area1.innerText = "Clicou!"
+            area1.style.background = 'red'
+        }
+
+        var area2 = window.document.getElementById("area2")
+
+        area2.addEventListener("click",clicar2)
+        area2.addEventListener("mouseenter",entrar)
+        area2.addEventListener("mouseout",sair)
+
+        function clicar2(){
+            area2.innerText = "Clicou!"
+        }
+
+        function entrar(){
+            area2.innerText = "Entrou!"
+        }
+
+        function sair(){
+            area2.innerText = "Saiu!"
+            area2.style.color = "red"
+            area2.style.fontFamily = "Times"
+            area2.style.fontSize = "30pt"
+        }
+    </script>
     
 </body>
 </html>

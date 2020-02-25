@@ -1,6 +1,6 @@
 # Curso em Vídeo (Javascript)
 
-Olá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia. O curso já está 100% disponível para todos, gratuitamente.
+O"lá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia. O curso já está 100% disponível para todos, gratuitamente." Gustavo Guanabara
 
 ## Bibliografia:
 
@@ -19,6 +19,14 @@ Olá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de Jav
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Node.js](https://nodejs.org/en/)
+
+[watch-in-chrome](https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome)
+
+Execute por ```Ctrl+Shift+p``` >> "watch in chrome" (instalar como extensão no Chrome também).
+
+[node exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node)
+
+Execute por ```F8``` no VSCode
 
 _____________________________________________________________________________________
 
@@ -63,6 +71,8 @@ Nota: Javascript para jogos -> Phaser, PixiJs, Impact, Melon.js, CraftyJS
 
 _____________________________________________________________________________________
 
-## DOM (Document Object Model)
+## Dicas
 
 [Lista de eventos DOM](https://developer.mozilla.org/pt-BR/docs/Web/Events)
+
+Verificar erro no javascript: botão direito na página >> Inspect (inspecionar) >> "x" vermelho >> Console
