@@ -1,6 +1,6 @@
 # Curso em Vídeo (Javascript)
 
-O"lá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia. O curso já está 100% disponível para todos, gratuitamente." Gustavo Guanabara
+"Olá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia. O curso já está 100% disponível para todos, gratuitamente." - Gustavo Guanabara
 
 ## Bibliografia:
 
@@ -20,9 +20,9 @@ O"lá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de Ja
 
 [Node.js](https://nodejs.org/en/)
 
-[watch-in-chrome](https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome) Execute por ```Ctrl+Shift+p``` >> "watch in chrome" (instalar como extensão no Chrome também).
+[watch-in-chrome](https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome) | Execute por ```Ctrl+Shift+p``` >> "watch in chrome" (instalar como extensão no Chrome também).
 
-[node exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node) Execute por ```F8``` no VSCode
+[node exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node) | Execute por ```F8``` no VSCode
 
 _____________________________________________________________________________________
 
