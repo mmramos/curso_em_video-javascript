@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ex_site_idade.css">
+</head>
+
+
+<body id='fundo'>
+    <header>
+        <h1>Verificador de idade</h1>
+    </header>
+
+    <section>
+        <div>
+            <p> Ano de nascimento: 
+                <input type="number" name="ano" id="ano" min="1900" max="2030">
+            </p>
+            <p> Sexo: 
+                <input type="radio" name="radsex" id="masc" checked>
+                <label for="masc">Masculino</label>
+                <input type="radio" name="radsex" id="femi">
+                <label for="femi">Feminino</label>
+            </p>
+            <p>
+                <input type="button" value="verificar" onclick="verificar()">
+            </p>
+        </div>
+        <div id="res">
+            Preencha os dados acima para ver o resultado.
+        </div>
+        
+    </section>
+
+    <footer>
+        Mário Martins Ramos
+    </footer>
+
+    <script src="ex_site_idade.js"></script>
+
+    
+</body>
+</html>

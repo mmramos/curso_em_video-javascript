@@ -72,3 +72,7 @@ ________________________________________________________________________________
 [Lista de eventos DOM](https://developer.mozilla.org/pt-BR/docs/Web/Events)
 
 Verificar erro no javascript: botão direito na página >> Inspect (inspecionar) >> "x" vermelho >> Console
+
+[Pexels - Stock image](https://www.pexels.com/)
+
+[Emojis Google](https://unicode.org/emoji/charts/full-emoji-list.html)
