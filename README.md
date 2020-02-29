@@ -1,6 +1,7 @@
 # Curso em Vídeo (Javascript)
 
 "Olá, Pequeno Gafanhoto! O Curso em Vídeo e o Google apresentam um curso de JavaScript e ECMAScript para Iniciantes aqui no YouTube! Veja nesse vídeo os detalhes sobre o lançamento, que aconteceu todo no mesmo dia. O curso já está 100% disponível para todos, gratuitamente." - Gustavo Guanabara
+[playlist - Curso de Javascript](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=1)
 
 ## Bibliografia:
 
